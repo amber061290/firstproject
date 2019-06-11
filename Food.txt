@@ -9,5 +9,6 @@ dal fry
 chicken 
 pasteries
 patty
+egg
 
 Thanks
